@@ -15,3 +15,6 @@ git仓库使用
 切换分支 ：git  checkout 分支名
 删除分支 ：git branch -d 分支名
 合并分支 ： git merge 分支名
+增加一个新的远程仓库，并命名
+$ git remote add [shortname] [url]
+上传本地指定分支到远程仓库: git remote add nmsll https://gitee.com/zhaoxukun/nmsl.git
